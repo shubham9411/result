@@ -1,0 +1,27 @@
+{
+  "name": "result",
+  "version": "1.0.0",
+  "description": "Show result of a student only by his roll no. and Father's name",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham9411/result.git"
+  },
+  "keywords": [
+    "result",
+    "btkit",
+    "json"
+  ],
+  "author": "Shubham Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham9411/result/issues"
+  },
+  "homepage": "https://github.com/shubham9411/result#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
